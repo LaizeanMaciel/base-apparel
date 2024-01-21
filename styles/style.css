@@ -20,7 +20,7 @@ body {
 }
 
 .left {
-    background-image: url("/images/bg-pattern-desktop.svg");
+    background-image: url(../bg-pattern-desktop.svg);
     background-position: center center;
     background-size: cover;
     width: 60%;
@@ -36,7 +36,7 @@ body {
 }
 
 .bg-right {
-    background-image: url(/images/hero-desktop.jpg );
+    background-image: url(../hero-desktop.jpg );
     background-size: cover;
 }
 
