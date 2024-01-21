@@ -1,0 +1,40 @@
+@media screen and (max-width: 600px) {
+    .logo {
+       margin: 0 15px 0 0;
+       padding: 20px;
+    }
+
+    .left {
+        width: 100%;
+    }
+    
+    .right {
+        display: none;
+       
+    }
+
+    .bg-mobile {
+        display: block;
+        width: 100%;
+    
+    }
+
+    h1 {
+        font-size: 48px;
+        margin: 20px 20px;
+        
+    }
+
+
+    p {
+        width: 100%;
+        padding: 0 20px;
+    } 
+    
+    form {
+        margin: 20px;
+    }
+
+}
+
+
